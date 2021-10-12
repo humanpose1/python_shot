@@ -23,7 +23,7 @@ python setup.py install
 ```
 ## How to use SHOT descriptor
 
-The SHOT function takes numpy array as argument. The arguments
+The SHOT function takes numpy array as argument.
 ```python
 import handcrafted_descriptor as hd
 descr = hd.compute_shot(point_cloud, normals, keypoints, keypoints_normal)
