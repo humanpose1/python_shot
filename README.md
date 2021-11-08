@@ -5,7 +5,7 @@ This repo is a binding in python  of the [SHOT descriptor](http://vision.disi.un
 
 ## Installation
 
-First you need to install [PCL](https://pointclouds.org/). You can use the script (thanls for [3DSmoothnet](https://github.com/zgojcic/3DSmoothNet) for the script) 
+First you need to install [PCL](https://pointclouds.org/). You can use the script (thanks [3DSmoothnet](https://github.com/zgojcic/3DSmoothNet) for the script) 
 ```
 sh install_pcl.sh
 ```
